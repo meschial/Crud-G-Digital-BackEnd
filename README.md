@@ -1,5 +1,11 @@
 # Lumen PHP Framework
 
+1) Composer install
+2) Crie um banco de dados de configure o acesso no .env
+3) Rode o php artisan migrate
+4) php -S 127.0.0.1:3000 -t public/
+5) FrontEnd https://github.com/meschial/Crud-G-Digital-FrontEnd.git
+
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
 [![Total Downloads](https://img.shields.io/packagist/dt/laravel/framework)](https://packagist.org/packages/laravel/lumen-framework)
 [![Latest Stable Version](https://img.shields.io/packagist/v/laravel/framework)](https://packagist.org/packages/laravel/lumen-framework)
